@@ -1,7 +1,7 @@
 # Psychology Idol
 List of top ten psychologists:
 
-1. B. E. Skiner
+1. B. E. Skinner
 1. Zigmund Fraud
 1. Albert Bandara
 1. Jan Piagett
