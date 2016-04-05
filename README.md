@@ -2,7 +2,7 @@
 List of top ten psychologists:
 
 1. B. E. Skiner
-1. Zigmund Fraud
+1. Sigmund Freud
 1. Albert Bandara
 1. Jan Piagett
 1. Karl Rogers
